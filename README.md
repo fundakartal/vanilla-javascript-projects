@@ -9,26 +9,6 @@
 |:-------------------:|
 | <a href="https://fundakartal.github.io/vanilla-javascript-projects/01-color-flipper/index.html"><b>Color Flipper</b></a>|
 
-
-## Installation
-
-```bash
-git clone https://github.com/fundakartal/vanilla-javascript-projects
-cd vanilla-javascript-projects
-npm install or yarn install
-```
-
-
-## Start the server
-
-```bash
-gulp
-```
-
-Now enter [`localhost:3000`](http://localhost:3000) in the address bar of your browser.
-
----
-
 ## Credits
 
 [Build 15 JavaScript Projects - Vanilla JavaScript Course by John Smilga](https://www.youtube.com/watch?v=3PHXvlpOkf4)
