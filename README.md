@@ -5,9 +5,9 @@
 <h2 align="center">Projects 💻</h2>
 <br />
 
-|<img width="400" src="https://fundakartal.github.io/vanilla-javascript-projects/01-color-flipper/img/ss.png"/>|
-|:-------------------:|
-| <a href="https://fundakartal.github.io/vanilla-javascript-projects/01-color-flipper/index.html"><b>Color Flipper</b></a>|
+|<img height="200" src="https://fundakartal.github.io/vanilla-javascript-projects/01-color-flipper/img/ss.png"/>|<img height="200" src="https://fundakartal.github.io/vanilla-javascript-projects/02-counter/img/ss.png"/> |
+|:-------------------:|:-------------------:|
+| <a href="https://fundakartal.github.io/vanilla-javascript-projects/01-color-flipper/index.html"><b>Color Flipper</b></a>|<a href="https://fundakartal.github.io/vanilla-javascript-projects/02-counter/index.html"><b>Counter</b></a>|
 
 ## Credits
 
