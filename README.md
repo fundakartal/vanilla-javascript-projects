@@ -10,19 +10,19 @@ Sharpen your JavaScript skills by building projects using plain JavaScript witho
 # Projects
 
 ## 01-Color-Flipper
----
+
 ![screenshot](./01-color-flipper/img/ss.png)
 
 - Live Site URL: [https://fundakartal.github.io/vanilla-javascript-projects/01-color-flipper/index.html](https://fundakartal.github.io/vanilla-javascript-projects/01-color-flipper/index.html)
 - Repository URL: [https://github.com/fundakartal/vanilla-javascript-projects/tree/main/01-color-flippert](https://github.com/fundakartal/vanilla-javascript-projects/tree/main/01-color-flipper)
----
+
 ## 02-Counter
----
+
 ![screenshot](./02-counter/img/ss.png)
 
 - Live Site URL: [https://fundakartal.github.io/vanilla-javascript-projects/02-counter/index.html](https://fundakartal.github.io/vanilla-javascript-projects/02-counter/index.html)
 - Repository URL: [https://github.com/fundakartal/vanilla-javascript-projects/tree/main/02-counter](https://github.com/fundakartal/vanilla-javascript-projects/tree/main/02-counter)
----
+
 ## Credits
 
 [Build 15 JavaScript Projects - Vanilla JavaScript Course by John Smilga](https://www.youtube.com/watch?v=3PHXvlpOkf4)
