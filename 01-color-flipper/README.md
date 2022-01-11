@@ -1,8 +1,9 @@
-# 01 Color Flipper
+# 01-Color Flipper
 
-## Screenshots
+![screenshot](./img/ss.png)
 
-![App Screenshot](img/ss.png)
+- Live Site URL: [https://fundakartal.github.io/vanilla-javascript-projects/01-color-flipper/index.html](https://fundakartal.github.io/vanilla-javascript-projects/01-color-flipper/index.html)
+- Repository URL: [https://github.com/fundakartal/vanilla-javascript-projects/tree/main/01-color-flippert](https://github.com/fundakartal/vanilla-javascript-projects/tree/main/01-color-flipper)
 
 ## Roadmap
 
