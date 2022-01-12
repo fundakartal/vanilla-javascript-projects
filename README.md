@@ -2,11 +2,12 @@
 
 Sharpen your JavaScript skills by building projects using plain JavaScript without frameworks.
 
-| Table of Contents                                                     |
-| --------------------------------------------------------------------- |
-| [01-Color Flipper](#01-color-flipper)                                 |
-| [02-Counter](#02-counter)                                             |
-| [03-Reviews](#03-reviews)                                             |
+| Table of Contents                          |
+| ------------------------------------------ |
+| [01-Color Flipper](#01-color-flipper)      |
+| [02-Counter](#02-counter)                  |
+| [03-Reviews](#03-reviews)                  |
+| [04-Navbar](#04-navbar)                    |
 
 # Projects
 
@@ -30,6 +31,15 @@ Sharpen your JavaScript skills by building projects using plain JavaScript witho
 
 - Live Site URL: [https://fundakartal.github.io/vanilla-javascript-projects/03-reviews/index.html](https://fundakartal.github.io/vanilla-javascript-projects/03-reviews/index.html)
 - Repository URL: [https://github.com/fundakartal/vanilla-javascript-projects/tree/main/03-reviews](https://github.com/fundakartal/vanilla-javascript-projects/tree/main/03-reviews)
+
+## 04-Navbar
+
+![screenshot](./04-navbar/img/ss.png)
+![screenshot](./04-navbar/img/ss2.png)
+
+- Live Site URL: [https://fundakartal.github.io/vanilla-javascript-projects/04-navbar/index.html](https://fundakartal.github.io/vanilla-javascript-projects/04-navbar/index.html)
+- Repository URL: [https://github.com/fundakartal/vanilla-javascript-projects/tree/main/04-navbar](https://github.com/fundakartal/vanilla-javascript-projects/tree/main/04-navbar)
+
 
 ## Credits
 
