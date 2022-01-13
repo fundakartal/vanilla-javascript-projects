@@ -46,9 +46,7 @@ let currentItem = 0;
 
 // load initial item
 
-window.addEventListener('DOMContentLoaded', function () {
-  showPerson();
-});
+window.addEventListener('DOMContentLoaded', showPerson);
 
 // show person based on item
 
@@ -79,7 +77,13 @@ prevBtn.addEventListener('click', function () {
 });
 
 // show random person
-randomBtn.addEventListener('click', function () {
-  currentItem = Math.floor(Math.random() * reviews.length);
+randomBtn.addEventListener('click', randomPerson);
+
+function randomPerson() {
+  const randomNum = Math.floor(Math.random() * reviews.length);
+  if (currentItem === randomNum) {
+    return randomPerson();
+  }
+  currentItem = randomNum;
   showPerson();
-});
+}
