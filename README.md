@@ -8,6 +8,7 @@ Sharpen your JavaScript skills by building projects using plain JavaScript witho
 | [02-Counter](#02-counter)                  |
 | [03-Reviews](#03-reviews)                  |
 | [04-Navbar](#04-navbar)                    |
+| [05-Sidebar](#05-sidebar)                  |
 
 # Projects
 
