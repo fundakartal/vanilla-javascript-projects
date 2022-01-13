@@ -40,6 +40,13 @@ Sharpen your JavaScript skills by building projects using plain JavaScript witho
 - Live Site URL: [https://fundakartal.github.io/vanilla-javascript-projects/04-navbar/index.html](https://fundakartal.github.io/vanilla-javascript-projects/04-navbar/index.html)
 - Repository URL: [https://github.com/fundakartal/vanilla-javascript-projects/tree/main/04-navbar](https://github.com/fundakartal/vanilla-javascript-projects/tree/main/04-navbar)
 
+## 05-Sidebar
+
+![screenshot](./05-sidebar/img/ss.gif)
+
+- Live Site URL: [https://fundakartal.github.io/vanilla-javascript-projects/05-sidebar/index.html](https://fundakartal.github.io/vanilla-javascript-projects/05-sidebar/index.html)
+- Repository URL: [https://github.com/fundakartal/vanilla-javascript-projects/tree/main/05-sidebar](https://github.com/fundakartal/vanilla-javascript-projects/tree/main/05-sidebar)
+
 
 ## Credits
 
