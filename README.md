@@ -10,6 +10,7 @@ Sharpen your JavaScript skills by building projects using plain JavaScript witho
 | [04-Navbar](#04-navbar)                    |
 | [05-Sidebar](#05-sidebar)                  |
 | [06-Modal](#06-modal)                      |
+| [07-Questions](#07-questions)              |
 
 # Projects
 
@@ -55,6 +56,13 @@ Sharpen your JavaScript skills by building projects using plain JavaScript witho
 
 - Live Site URL: [https://fundakartal.github.io/vanilla-javascript-projects/06-modal/index.html](https://fundakartal.github.io/vanilla-javascript-projects/06-modal/index.html)
 - Repository URL: [https://github.com/fundakartal/vanilla-javascript-projects/tree/main/06-modal](https://github.com/fundakartal/vanilla-javascript-projects/tree/main/06-modal)
+
+## 07-Questions
+
+![screenshot](./07-questions/img/ss.gif)
+
+- Live Site URL: [https://fundakartal.github.io/vanilla-javascript-projects/07-questions/index.html](https://fundakartal.github.io/vanilla-javascript-projects/07-questions/index.html)
+- Repository URL: [https://github.com/fundakartal/vanilla-javascript-projects/tree/main/07-questions](https://github.com/fundakartal/vanilla-javascript-projects/tree/main/07-questions)
 
 ## Credits
 
