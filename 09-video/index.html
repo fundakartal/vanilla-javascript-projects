@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video</title>
+
+    <!-- styles -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- icons -->
+    <svg
+      aria-hidden="true"
+      style="position: absolute; width: 0; height: 0; overflow: hidden"
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+    >
+      <defs>
+        <symbol id="icon-play" viewBox="0 0 32 32">
+          <path d="M6 4l20 12-20 12z"></path>
+        </symbol>
+        <symbol id="icon-pause" viewBox="0 0 32 32">
+          <path d="M4 4h10v24h-10zM18 4h10v24h-10z"></path>
+        </symbol>
+      </defs>
+    </svg>
+    <!-- preloader -->
+    <div class="preloader">
+      <img src="preloader.gif" alt="preloader" class="preloader__item" />
+    </div>
+    <!-- header -->
+    <header>
+      <video muted autoplay loop class="video-container">
+        <source src="./video.mp4" type="video/mp4" />
+      </video>
+      <h1>I <span style="color: darkred">&#10084;</span> camping</h1>
+      <!-- video switch -->
+      <button class="switch-btn">
+        <span>
+          <svg class="icon icon-play"><use xlink:href="#icon-play"></use></svg>
+        </span>
+        <span>
+          <svg class="icon icon-pause">
+            <use xlink:href="#icon-pause"></use>
+          </svg>
+        </span>
+        <span class="switch"></span>
+      </button>
+    </header>
+    <!-- javascript -->
+    <script src="app.js"></script>
+  </body>
+</html>
